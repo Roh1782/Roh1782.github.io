@@ -4,13 +4,11 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-header{
     
-    background-image: url("images\menhim.jpg");
-    height: 3088px;
-    background-size: cover;
-    background-position: center center;
-    position: relative;
+  body {
+    background-image: url("menhim.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
     
     
 }
@@ -51,7 +49,7 @@ header{
   width: 600px;
   height: 300px;
   margin-top: 10%;
-  margin-left: 25%;
+  margin-left: 35%;
   text-align: center;
   text-shadow: 2px 2px #020202;
 }
@@ -76,7 +74,9 @@ header{
 }
 
 .about {
-  margin-top: 900px;
+  color: white;
+  font-size: 25px;
+  margin-top: 600px;
   width: 400px;
   display: block;
   margin-left: auto;
@@ -84,7 +84,8 @@ header{
 }
 
 .about p {
-  margin-top: 80px;
+  color: white;
+  margin-top: 10px;
 }
 
 /*Footer Styling */
