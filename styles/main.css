@@ -214,28 +214,7 @@
   margin-bottom: 5px;
 }
 
-/* Blog styling */
 
-.blog-header {
-  height: 100px;
-}
-
-.blog-post h2 {
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-.blog-post h1 {
-  margin-bottom: 40px;
-}
-
-#blog {
-  margin: 5%;
-}
-
-.image2 {
-  height: 220px;
-}
 
 /* media queries */
 
@@ -368,4 +347,18 @@
   img {
     max-width: 100%;
   }
+}
+  .options_blog{
+   color: white;
+   font-size: 30px;
+   font:bolder;
+   text-align: center;
+   margin-top: 300px;
+
+}
+
+.tech_blog{ 
+  background-color: aqua
+}
+
 }
